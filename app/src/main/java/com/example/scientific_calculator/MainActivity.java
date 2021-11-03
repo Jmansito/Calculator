@@ -31,6 +31,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void oneButton(View view){oneButton();}
-    public void oneButton() {binding.buttonOne.setOnClickListener(v -> binding.results.setText(binding.results.getText() + "1"));}
+    public void oneButton() {binding.one.setOnClickListener(v -> binding.results.setText(binding.results.getText() + "1"));}
 
 }
