@@ -23,7 +23,6 @@
     <string name="x3">χ³</string>
     <string name="x_power_y">X<sup><small>y</small></sup></string>
     <string name="e_power_x">e<sup><small>x</small></sup></string>
-    <string name="_10_power_x">10<sup><small>x</small></sup></string>
     <string name="cube_root">∛x</string>
     <string name="y_root"><sup><small>y</small></sup>√x</string>
     <string name="nat_log">ln</string>
@@ -49,4 +48,5 @@
     <string name="m_plus">m+</string>
     <string name="m_minus">m-</string>
     <string name="mr">mr</string>
+    <string name="ten_power_x">10<sup><small>x</small></sup></string>
 </resources>
